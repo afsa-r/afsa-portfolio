@@ -1,0 +1,7 @@
+Save your web-version résumé PDF (without your phone number) in this folder
+with exactly this name:
+
+    Afsa_R_Resume.pdf
+
+The "Download résumé" button on the site points to it. Until the file is here,
+that button will show a "Cannot GET" error. You can delete this note afterwards.
